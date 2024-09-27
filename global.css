@@ -1,0 +1,9 @@
+.nav-links:hover span {
+    background-color: #48be85;
+}
+.nav-links:active span {
+    opacity: .7;
+}
+#sideBar{
+    transition: width 0.3s ease;
+}
